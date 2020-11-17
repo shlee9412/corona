@@ -1,0 +1,11 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#corona-table th,
+#corona-table td {
+  text-align: center;
+  vertical-align: middle;
+}

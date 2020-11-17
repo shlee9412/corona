@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\workspace\\VScode\\corona\\log\\server\\.cda0f11e2686e436b6d132b730d0eeee11cdbb45-audit.json",
+    "files": [
+        {
+            "date": 1605520304203,
+            "name": "D:\\workspace\\VScode\\corona\\log\\server\\server_20201116.log",
+            "hash": "21fac0726b77adcb6104e829f3607777"
+        }
+    ]
+}

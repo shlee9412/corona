@@ -1,0 +1,1 @@
+[2020-11-04 20:51:58] [EXPRESS] [INFO] {"confirmed":{"description":"확진환자","total":26925,"dailyChange":{"subtotal":118,"local":98,"imported":20}},"released":{"description":"격리해제","total":24616,"dailyChange":106},"quarantined":{"description":"격리중","total":1835,"dailyChange":10},"deceased":{"description":"사망","total":474,"dailyChange":2},"date":"2020-11-04 20:51"}
